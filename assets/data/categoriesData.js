@@ -3,13 +3,13 @@ const categoriesData = [
         id: '1',
         image: require('../images/pizza-icon.png'),
         title: 'Pizza',
-        selected: false
+        selected: true
     },
     {
         id: '2',
         image: require('../images/burger-icon.png'),
         title: 'Burger',
-        selected: true
+        selected: false
     },
     {
         id: '3',
