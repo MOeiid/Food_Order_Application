@@ -62,7 +62,7 @@ export default Home = ({ navigation }) => {
         </SafeAreaView>
 
         <View style={styles.titlesWrapper}>
-          <Text style={styles.titleSubtitle}>Ready wares Kitchen</Text>
+          <Text style={styles.titleSubtitle}>Egypt Kitchen</Text>
           <Text style={styles.titlesTitle}>Best Food Ever</Text>
         </View>
 
